@@ -1,0 +1,105 @@
+body{
+    margin-left: auto;
+}
+
+nav{
+    background-color: black;
+}
+
+.logo{
+    margin: 1%;
+}
+
+.PREMIUM{
+    background-color: rgba(29,117,222,255);
+    color: white;
+    padding: 5%;
+}
+
+.TyC{
+    color: #c0d9f6;
+    padding-top: 2%;
+}
+
+.TyC2{
+    color: gray;
+}
+
+.boton{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.botoncd{
+    width: 100%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.btn2{
+    margin-right: 5px;
+    margin-bottom: 15px;
+    color: rgba(29,117,222,255);
+}
+
+.Benefits{
+    margin-bottom: 72px;
+}
+
+article{
+    margin: 5%;
+}
+
+article header{
+    text-align: center;
+}
+
+.descripción{
+    margin-bottom: 0%;
+}
+
+.PLANES{
+    background-color: #efefef;
+    padding: 5%;
+}
+
+.cards{
+    align-items: center;
+    border-radius: 10%;
+}
+
+.cd{
+    border: 1px solid rgba(226, 226, 226, 0.849);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    width: auto;
+    padding: 5%;
+    margin: 5%;
+}
+
+footer{
+    padding: 5%;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+
+.logofooter{
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+.footersect{
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: auto;
+    border: 5px solid aqua;
+    padding: 15px;
+    margin: 15px;
+}
